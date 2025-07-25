@@ -22,7 +22,7 @@ Random Forest achieved 68% accuracy and identified weight and discount as top de
 ## 📁 Files Included
 - Jupyter notebook (`delivery_delay_prediction.ipynb`)
 - Cleaned dataset
-- Visuals (confusion matrix, feature importance)
+- Visuals (PPT)
 - Trained model (`.pkl` file)
 
 ## 📦 How to Run
