@@ -17,7 +17,7 @@ Late deliveries affect customer experience and business performance. We build a 
 4. Visualization of Key Features
 
 ## 🔍 Key Insight
-Random Forest achieved 68% accuracy and identified vendor and distance as top delay predictors.
+Random Forest achieved 68% accuracy and identified weight and discount as top delay predictors.
 
 ## 📁 Files Included
 - Jupyter notebook (`delivery_delay_prediction.ipynb`)
