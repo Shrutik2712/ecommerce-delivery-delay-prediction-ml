@@ -25,9 +25,6 @@ Random Forest achieved 68% accuracy and identified vendor and distance as top de
 - Visuals (confusion matrix, feature importance)
 - Trained model (`.pkl` file)
 
-## 📸 Sample Visualizations
-![Feature Importance](visuals/feature_importance.png)
-
 ## 📦 How to Run
 ```bash
 pip install -r requirements.txt
